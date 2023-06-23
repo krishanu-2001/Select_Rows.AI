@@ -9,3 +9,5 @@ English language queries possible such as:
     1. Select rows with minimum NULL values
     2. Regresion task on rows (scoring)
 
+## Coming Soon
+
